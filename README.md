@@ -1,16 +1,88 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Hasim 👋</h1>
+<h3 align="center">Predicting the signal before it becomes the symptom.</h3>
 
-<!--
-**Hasim-R/Hasim-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧬 About Me
 
-Here are some ideas to get you started:
+- 🎓 Currently pursuing my **Master's in Biomedical Engineering & AI**
+- 🔬 Researching **AI, Machine Learning, Signal Processing & Image Processing** for real clinical applications
+- 📄 Presented research at **ICIRIST-2026 International Conference** — *"Continuous Late-Onset Sepsis Prediction in Neonates using Hybrid AI and Physiological Signals"*
+- 🩺 Passionate about building AI that clinicians can actually **trust and explain**, not just black-box predictions
+- 🌱 Currently deepening my knowledge of **medical imaging (X-Ray, CT, MRI, Ultrasound)** to bridge signal-based AI with image-based diagnostics
+- 💡 Long-term goal: contribute to Healthcare AI systems that genuinely improve medical standards and patient outcomes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**🩺 [Neonatal Late-Onset Sepsis Prediction System](https://github.com/Hasim-R/A-Continuous-Late-Onset-Sepsis-Prediction-in-Neonates-using-Hybrid-AI-and-physiological-signal)**
+
+IoT + AI system for early sepsis detection using continuous physiological signals.
+
+- Hybrid **LSTM + XGBoost** model for accuracy + interpretability
+- Real-time signal acquisition via **ESP32** (temperature, HR/SpO₂, ECG)
+- Risk scoring, alert system & retraining feedback loop
+- 📄 Presented at ICIRIST-2026
+
+`Python` `TensorFlow` `XGBoost` `ESP32` `MQTT`
+
+</td>
+<td width="50%">
+
+**💰 [Budget Tracker](https://github.com/Hasim-R/budget-tracker)**
+
+Full-stack personal finance management web app.
+
+- Income, expense & EMI tracking with budget planning
+- Visual reports: pie charts, trend lines, bar graphs
+- Automated **email alerts** & scheduled PDF reports
+- Documented REST API (Swagger/ReDoc)
+
+`Django` `DRF` `MySQL` `drf-yasg`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**AI / ML**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-016F51?style=for-the-badge)
+
+**Backend & Data**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**IoT & Tools**
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center"><i>"Building AI that doesn't just predict — but explains, adapts, and earns clinical trust."</i></p>
