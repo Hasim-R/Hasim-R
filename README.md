@@ -3,7 +3,7 @@
 
 ### 🧬 About Me
 
-- 🎓 Currently pursuing my **Master's in Biomedical Engineering & AI**
+- 🎓 Currently pursuing my **Master's in Biomedical Engineering & Artificial Intelligence**
 - 🔬 Researching **AI, Machine Learning, Signal Processing & Image Processing** for real clinical applications
 - 📄 Presented research at **ICIRIST-2026 International Conference** — *"Continuous Late-Onset Sepsis Prediction in Neonates using Hybrid AI and Physiological Signals"*
 - 🩺 Passionate about building AI that clinicians can actually **trust and explain**, not just black-box predictions
