@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hasim 👋</h1>
 <h3 align="center">Predicting the signal before it becomes the symptom.</h3>
 
-### 🧬 About Me
+### About Me
 
 - 🎓 Currently pursuing my **Master's in Biomedical Engineering & Artificial Intelligence**
 - 🔬 Researching **AI, Machine Learning, Signal Processing & Image Processing** for real clinical applications
@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
@@ -49,7 +49,7 @@ Full-stack personal finance management web app.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
