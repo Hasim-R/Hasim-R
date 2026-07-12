@@ -1,6 +1,6 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGV4ajhvcTRiNHUzd2x4MzdzNmN3Y2x0Z2hyMDd0N2IzM2g1eWdkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8YWYIgeyUAuJT5Jjc9/giphy.gif"
-     alt="Loading Animation"
-     width="300">
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGV4ajhvcTRiNHUzd2x4MzdzNmN3Y2x0Z2hyMDd0N2IzM2g1eWdkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8YWYIgeyUAuJT5Jjc9/giphy.gif" width="300">
+</p>
 <h1 align="center">Hi, I'm Hasim 👋</h1>
 <h3 align="center">Predicting the signal before it becomes the symptom.</h3>
 
