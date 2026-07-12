@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="giphy-8YWYIgeyUAuJT5Jjc9.gif" width="400">
+</p>
 <h1 align="center">Hi, I'm Hasim 👋</h1>
 <h3 align="center">Predicting the signal before it becomes the symptom.</h3>
 
