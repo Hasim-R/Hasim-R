@@ -5,7 +5,7 @@
 
 - 🎓 Currently pursuing my **Master's in Biomedical Engineering & Artificial Intelligence**
 - 🔬 Researching **AI, Machine Learning, Signal Processing & Image Processing** for real clinical applications
-- 📄 Presented research at **ICIRIST-2026 International Conference** - *"Continuous Late-Onset Sepsis Prediction in Neonates using Hybrid AI and Physiological Signals"*
+- 📄 Presented My research Paper at **ICIRIST-2026 International Conference** - *"Continuous Late-Onset Sepsis Prediction in Neonates using Hybrid AI and Physiological Signals"*
 - 🩺 Passionate about building AI that clinicians can actually **trust and explain**, not just black-box predictions
 - 🌱 Currently deepening my knowledge of **medical imaging (X-Ray, CT, MRI, Ultrasound)** to bridge signal-based AI with image-based diagnostics
 - 💡 Long-term goal: contribute to Healthcare AI systems that genuinely improve medical standards and patient outcomes
