@@ -81,7 +81,7 @@ Full-stack personal finance management web app.
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="mailto:hasim.r2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
